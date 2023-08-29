@@ -7,4 +7,11 @@
 ## Searching Algorithms
   * [Linear Search](search/linear_search.py)
 
+## Challenges
+  * [projecteuler.net](challenges/euler/)
+
+## Datasets
+  * [Queuek](datasets/queuek.py)
+  * [Stack](datasets/stack.py)
+
 > **Note:**  Repository is still developed, I will gradually add new things.
