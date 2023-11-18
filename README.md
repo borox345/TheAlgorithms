@@ -11,8 +11,4 @@ Created for learning purposes. Efficeinty may be not god.
 See [directory](DIRECTORY.md) for easier navigation.
 
 
-<h2>Author:</h2>
-Code: <b>Borox</b> <br>
-Description: <b>Borox</b>
-
 > **Note:**  Repository is still developed, I will gradually add new things.
